@@ -1,6 +1,6 @@
 let config = null;
 let debugMode = false;
-let version = "1.3.8g";
+let version = "1.3.8nicotine";
 let owner = `
    oooo   .oooooo.   ooooo   ooooo ooooo      ooo ooooo      ooo oooooo   oooo 
    \`888  d8P'  \`Y8b  \`888'   \`888' \`888b.     \`8' \`888b.     \`8'  \`888.   .8'  
@@ -177,37 +177,6 @@ function buildForm() {
     attachPostalAutocomplete();
 }
 
-async function sendPushPage({ callType, postal, address, units }) {
-    if (!config?.pushApiKey || !config?.pushUrl) return;
-
-    const title = `🚨 ${callType}`;
-    const bodyLines = [];
-
-    if (postal || address) {
-        bodyLines.push(
-            [postal, address].filter(Boolean).join(" | ")
-        );
-    }
-
-    if (units?.length) {
-        bodyLines.push(`Units: ${units.join(", ")}`);
-    }
-
-    await fetch(config.pushUrl, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            "x-api-key": config.pushApiKey
-        },
-        body: JSON.stringify({
-            title,
-            body: bodyLines.join("\n"),
-            topic: "fivem-cfs",
-            tag: `${postal || "call"}-${callType}`,
-            ttl: 300
-        })
-    });
-}
 
 
 function attachPostalAutocomplete() {
@@ -448,41 +417,6 @@ function getSelectedDepartments() {
 }
 
 
-async function sendPushPage({ callType, postal, address, units }) {
-    if (!config?.pushApiKey || !config?.pushUrl) {
-        console.warn("[push] Missing push config");
-        return;
-    }
-
-    const title = `🚨 ${callType}`;
-    const bodyLines = [];
-
-    if (postal || address) {
-        bodyLines.push(
-            [postal, address].filter(Boolean).join(" | ")
-        );
-    }
-
-    if (units?.length) {
-        bodyLines.push(`Units: ${units.join(", ")}`);
-    }
-
-    await fetch(config.pushUrl, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            "x-api-key": config.pushApiKey
-        },
-        body: JSON.stringify({
-            title,
-            body: bodyLines.join("\n"),
-            topic: "fivem-cfs",
-            tag: `${postal || "call"}-${callType}`,
-            ttl: 300
-        })
-    });
-}
-
 
 // Generate Murf audio
 async function generateMurfAudio(text) {
@@ -552,13 +486,6 @@ async function sendDispatch() {
         // --- Units (Departments only) ---
         const units = getSelectedDepartments();
 
-        // 🔔 PUSH PAGE (IMMEDIATE)
-        await sendPushPage({
-            callType,
-            postal,
-            address,
-            units
-        });
 
         // --- Audio routing logic ---
         const mode = document.getElementById("transmitMode").value;
