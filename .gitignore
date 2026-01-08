@@ -139,6 +139,4 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 html/script.js
 html/js/script.js
-package-lock.json
-package.json
 public/js/script.js
