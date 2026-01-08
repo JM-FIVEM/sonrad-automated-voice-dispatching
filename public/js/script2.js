@@ -73,7 +73,9 @@ document.getElementById("transmitMode").addEventListener("change", async () => {
 async function loadChannels() {
     const resp = await fetch("https://avdp.johnnychillx.com/channels", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+            "Content-Type": "application/json"
+        },
         body: JSON.stringify({
             communityId: config.communityID,
             communityKey: config.communityKey
@@ -217,7 +219,7 @@ function attachPostalAutocomplete() {
                 addressInput.dataset.postal = entry.postal;
                 addressInput.dataset.street = entry.street;
                 addressInput.dataset.cross = entry.cross || "";
-                postalInput.value = entry.postal; 
+                postalInput.value = entry.postal;
 
                 suggestionBox.style.display = "none";
             });
@@ -247,8 +249,12 @@ function attachPostalLookup() {
 
 function getSelectedSpeakers() {
     const checkboxes = [...document.querySelectorAll('#speakersDropdown input[type=checkbox]:checked')];
-    return checkboxes.map(cb => ({ id: cb.value, label: cb.dataset.label }));
+    return checkboxes.map(cb => ({
+        id: cb.value,
+        label: cb.dataset.label
+    }));
 }
+
 function getSelectedChannels() {
     const checkboxes = [...document.querySelectorAll('#channelsDropdown input[type=checkbox]:checked')];
     return checkboxes.map(cb => ({
@@ -268,7 +274,7 @@ function buildText() {
     const secondPass = ["Departments", "Call Type", "Address", "Cross Street", "Channel"];
 
     let outputBlocks = [];
-    const totalEntries = 2; 
+    const totalEntries = 2;
 
     for (let i = 0; i < totalEntries; i++) {
         const pattern = i === 0 ? firstPass : secondPass;
@@ -297,29 +303,29 @@ function buildText() {
                 }
             }
 
-if (fieldName === "Address") {
-    const addressInput = document.querySelector('input[data-field-name="Address"]');
-    const postalInput = document.querySelector('input[data-field-name="Postal"]');
+            if (fieldName === "Address") {
+                const addressInput = document.querySelector('input[data-field-name="Address"]');
+                const postalInput = document.querySelector('input[data-field-name="Postal"]');
 
-    if (addressInput) {
-        const parts = [];
+                if (addressInput) {
+                    const parts = [];
 
-        if (addressInput.dataset.postal) parts.push(addressInput.dataset.postal);
-        else if (postalInput?.value) parts.push(postalInput.value);
+                    if (addressInput.dataset.postal) parts.push(addressInput.dataset.postal);
+                    else if (postalInput?.value) parts.push(postalInput.value);
 
-        if (addressInput.dataset.street) parts.push(addressInput.dataset.street);
-        else if (addressInput.value) parts.push(addressInput.value);
+                    if (addressInput.dataset.street) parts.push(addressInput.dataset.street);
+                    else if (addressInput.value) parts.push(addressInput.value);
 
-        if (addressInput.dataset.cross) parts.push(`at ${addressInput.dataset.cross}`);
+                    if (addressInput.dataset.cross) parts.push(`at ${addressInput.dataset.cross}`);
 
-        value = parts.join(", ");
-    }
-}
+                    value = parts.join(", ");
+                }
+            }
 
             if (value) {
-                const spoken = field.includeFieldName && field.saidName
-                    ? `${field.saidName}, ${value}`
-                    : value;
+                const spoken = field.includeFieldName && field.saidName ?
+                    `${field.saidName}, ${value}` :
+                    value;
                 block.push(spoken);
             }
         });
@@ -346,14 +352,16 @@ async function fetchSpeakers() {
 
     try {
         const resp = await fetch("https://avdp.johnnychillx.com/speakers", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-        communityId: config.communityID,
-        ssoAccount: config.ssoAccount,
-        ssoToken: config.ssoToken
-    })
-});
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                communityId: config.communityID,
+                ssoAccount: config.ssoAccount,
+                ssoToken: config.ssoToken
+            })
+        });
 
         if (!resp.ok) {
             const errText = await resp.text();
@@ -397,7 +405,10 @@ async function generateMurfAudio(text) {
     if (!apiKey) throw new Error("No Murf API key in YAML!");
     const resp = await fetch("https://api.murf.ai/v1/speech/generate", {
         method: "POST",
-        headers: { "Content-Type": "application/json", "api-key": apiKey },
+        headers: {
+            "Content-Type": "application/json",
+            "api-key": apiKey
+        },
         body: JSON.stringify({
             voiceId: "en-US-charlotte",
             style: "Narration",
@@ -418,7 +429,9 @@ async function generateMurfAudio(text) {
 async function sendToSonoran(audioUrl, targets, mode) {
     const resp = await fetch("https://avdp.johnnychillx.com/send_dispatch", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers: {
+            "Content-Type": "application/json"
+        },
         body: JSON.stringify({
             communityId: config.communityID,
             communityKey: config.communityKey,
@@ -426,9 +439,9 @@ async function sendToSonoran(audioUrl, targets, mode) {
             ssoToken: config.ssoToken,
             speakers: targets,
             serverId: config.serverId,
-            roomId: config.roomId,  
+            roomId: config.roomId,
             audioUrl,
-            mode 
+            mode
 
         })
     });
@@ -493,4 +506,3 @@ async function sendDispatch() {
         alert("Error: " + err.message);
     }
 }
-
