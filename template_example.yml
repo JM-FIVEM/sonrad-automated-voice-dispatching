@@ -1,0 +1,57 @@
+# Before submitting
+
+# Murf API KEY
+
+murfApiKey: "" # https://murf.ai/api/dashboard
+
+#Sonoran Radio Community ID and Key (both found in the administration tab of your community)
+
+communityID: "XXXXXXXX"
+communityKey: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
+
+# Found from the F12 Console > Application > Local storage > Sonoran Radio > RADIO_ssoAccount & RADIO_ssoToken
+ssoAccount: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
+ssoToken: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
+
+# Sonoran Radio Server and Room ID (Look at readme for how to find)
+serverId: "xxxxx"
+roomId: "1" # Usually "1" unless you have multiple rooms / FiveM servers on the same Sonoran Radio Community
+
+Speakers:
+  - label: "Station 2"
+    id: "xxxxxxx-xxxxxxxxxx-xxxxxxxxx-xxxxxx" # Look at readme for how to find
+    tone: "station2.mp3" # Tone file to play when this speaker is selected (file must be in the audio folder)
+
+# Fields / Data to show on the dispatch form
+
+fields:
+  - name: "Departments"
+    type: "Dropdown"
+    multiple: true
+    separator: "..."
+    ender: "... "
+    options: ["Station 1","Station 2","Station 3","Station 4","Station 5","Chief 1","Chief 2","Chief 3","Deputy Chief","Battalion 1","Battalion 2","Battalion 3","Engine 1","Engine 2","Engine 3","Engine 4","Engine 5","Medic 1","Medic 2","Medic 3","Medic 4","Tanker 1","Tanker 2","Tanker 3","Rescue 1","Rescue 2","Squad 1","Squad 2","Ladder 1","Ladder 2","Ladder 3","Tiller 1","Tiller 2","Brush 1","Brush 2","Brush 3","Hazmat 1","Hazmat 2","USAR 1","Air Unit 1","Fire Boat 1","Fire Boat 2","Command 1","Command 2","Safety Officer","Training Officer","Logistics","ALL CALL","Mutual Aid Engine","Mutual Aid Ladder","Mutual Aid Medic","San Andreas Department of Natural Resources","San Andreas Park Service"]
+
+  - name: "Call Type"
+    type: "Dropdown"
+    ender: ".... "
+    options: ["Medical Emergency", "Residential structure fire","Confirmed residential structure fire","Commercial structure fire","High-rise structure fire","Industrial structure fire","Abandoned structure fire","Shed fire","Detached garage fire","Attached garage fire","Basement fire","Attic fire","Chimney fire","Kitchen fire","Electrical fire","Appliance fire","Laundry room fire","Roof fire","Trash fire","Dumpster fire","Vehicle fire","Vehicle fire with exposures","Semi-truck fire","RV fire","Motorcycle fire","Boat fire","Brush fire","Wildland fire","Grass fire","Field fire","Fence fire","Tree fire","Controlled burn","Illegal burn","Burn complaint","Fire investigation","Fire out on arrival","Rekindle","Explosion reported","Gas leak (outside)","Gas leak (inside)","Carbon monoxide investigation","Smoke investigation","Odor of smoke","Odor of gas","Hazmat fire response","Fuel spill fire","Transformer fire","Power line fire","Mutual aid fire response","Fire alarm - residential","Fire alarm - commercial","Fire alarm - high-rise","Sprinkler activation","Water flow alarm","Activated automatic fire alarm","Alarm malfunction","False alarm","Working fire upgrade","2nd alarm fire","3rd alarm fire","Multiple alarm fire","Defensive fire operations","Taser Deployment","Request by LEO","Standby for law enforcement","Civil disturbance standby","Medical","Cardiac arrest","Chest pain","Difficulty breathing","Unconscious person","Stroke symptoms","Seizure","Overdose","Allergic reaction","Anaphylaxis","Diabetic emergency","Psychiatric emergency","Suicidal ideation","Childbirth","OB emergency","Trauma - fall","Trauma - MVC","Trauma - pedestrian struck","Trauma - bicycle accident","Trauma - assault","Trauma - stabbing","Trauma - gunshot wound","Bleeding control","Amputation","Sick person","Unknown medical","Medical alarm activation","Lift assist","Welfare check","DOA","Rescue Call","Water Rescue","Swift Water Rescue","Ice Rescue","High Angle Rescue","Confined Space Rescue","Trench Rescue","Structural collapse","Elevator rescue","Vehicle extrication","Machinery entrapment","Vehicle Accident","Vehicle Accident with Injuries","Vehicle Accident - Major","Vehicle rollover","Vehicle into structure","Vehicle into water","Aircraft incident","Train incident","Hazmat response","Fuel spill","Chemical spill","Radiological incident","Biological hazard","Animal Complaint","Animal Needing Dispatch","Animal rescue","Animal bite","Public assist","Standby","Weather-related incident","Flooding","Storm damage","Tree down","Power outage","Other"]
+  
+  - name: "Postal"
+    type: "TextBox"
+    includeFieldName: false
+    ender: ".... "
+
+  - name: "Address"
+    type: "TextBox"
+    includeFieldName: false
+    ender: ".... "
+
+  - name: "Channel"
+    saidName: "Respond on"
+    type: "Dropdown"
+    ender: ".... "
+    includeFieldName: true
+    endOnly: true
+    options: ["Main Fire Channel", "Fireground Red", "Fireground White", "Fireground Blue", "Fireground Gold", "Fireground Black", "Fireground Gray", "Main LEO Channel", "LEO TAC 1","LEO SPECIAL EVENTS"]
+
