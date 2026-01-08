@@ -10,7 +10,7 @@ let owner = `
     888 \`88b    d88'  888     888   8       \`888   8       \`888       888      
  .o. 88P  \`Y8bood8P'  o888o   o888o o8o        \`8  o8o        \`8      o888o     
  \`Y888P                                                                         
-                                                                               
+
 `;
 
 let postalCache = null;
@@ -35,13 +35,11 @@ async function loadPostals(filename) {
     return data;
 }
 
-// Load default dataset on page load
 window.addEventListener("DOMContentLoaded", async () => {
     const defaultDataset = document.getElementById("postalDataset").value;
     await loadPostals(defaultDataset);
 });
 
-// Change postal dataset dynamically
 document.getElementById("postalDataset").addEventListener("change", async (e) => {
     const filename = e.target.value;
     await loadPostals(filename);
@@ -51,7 +49,6 @@ document.getElementById("debugModeToggle").addEventListener("change", (e) => {
     debugMode = e.target.checked;
     document.getElementById("debugButton").style.display = debugMode ? "inline-block" : "none";
 
-    // Hide debug output if debug mode is turned off
     if (!debugMode) {
         const debugBox = document.getElementById("debugOutput");
         debugBox.style.display = "none";
@@ -99,8 +96,6 @@ async function loadChannels() {
     });
 }
 
-
-// Load YAML
 async function loadFromFile() {
     const file = document.getElementById("yamlFile").files[0];
     if (!file) return alert("Select a file!");
@@ -109,13 +104,11 @@ async function loadFromFile() {
     buildForm();
 }
 
-// Build form dynamically from YAML
 function buildForm() {
     config = jsyaml.load(document.getElementById("yamlInput").value);
     const container = document.getElementById("dynamicForm");
     container.innerHTML = "";
 
-    // --- build your fields as before ---
     config.fields.forEach(field => {
         const label = document.createElement("div");
         label.className = "field-label";
@@ -152,7 +145,6 @@ function buildForm() {
         }
     });
 
-    // --- build speakers ---
     if (config.Speakers && config.Speakers.length) {
         const label = document.createElement("div");
         label.className = "field-label";
@@ -172,12 +164,9 @@ function buildForm() {
         container.appendChild(wrapper);
     }
 
-    // --- Attach postal features AFTER form exists ---
     attachPostalLookup();
     attachPostalAutocomplete();
 }
-
-
 
 function attachPostalAutocomplete() {
     const addressInput = document.querySelector('input[data-field-name="Address"]');
@@ -223,12 +212,13 @@ function attachPostalAutocomplete() {
             item.style.cursor = "pointer";
 
             item.addEventListener("click", () => {
-                // **Set both Address and Postal dataset values**
+
                 addressInput.value = entry.street;
                 addressInput.dataset.postal = entry.postal;
                 addressInput.dataset.street = entry.street;
                 addressInput.dataset.cross = entry.cross || "";
-                postalInput.value = entry.postal; // update the Postal field too
+                postalInput.value = entry.postal; 
+
                 suggestionBox.style.display = "none";
             });
 
@@ -238,7 +228,6 @@ function attachPostalAutocomplete() {
         if (suggestions.length) suggestionBox.style.display = "block";
     });
 }
-
 
 function attachPostalLookup() {
     const postalInput = document.querySelector('input[data-field-name="Postal"]');
@@ -256,7 +245,6 @@ function attachPostalLookup() {
     });
 }
 
-// Get selected speakers
 function getSelectedSpeakers() {
     const checkboxes = [...document.querySelectorAll('#speakersDropdown input[type=checkbox]:checked')];
     return checkboxes.map(cb => ({ id: cb.value, label: cb.dataset.label }));
@@ -270,20 +258,17 @@ function getSelectedChannels() {
     }));
 }
 
-
-// Reset form
 function resetForm() {
     document.querySelectorAll("input[type=text]").forEach(i => i.value = "");
     document.querySelectorAll("input[type=checkbox]").forEach(i => i.checked = false);
 }
 
-// Build dispatch text
 function buildText() {
     const firstPass = ["Departments", "Call Type", "Address", "Cross Street"];
     const secondPass = ["Departments", "Call Type", "Address", "Cross Street", "Channel"];
 
     let outputBlocks = [];
-    const totalEntries = 2; // For demo or dynamic
+    const totalEntries = 2; 
 
     for (let i = 0; i < totalEntries; i++) {
         const pattern = i === 0 ? firstPass : secondPass;
@@ -295,7 +280,6 @@ function buildText() {
 
             let value = "";
 
-            // Grab user input
             if (field.type === "TextBox") {
                 const input = document.querySelector(`input[data-field-name="${field.name}"]`);
                 if (input) value = input.value;
@@ -313,7 +297,6 @@ function buildText() {
                 }
             }
 
-            // Inject postal enrichment if Address field
 if (fieldName === "Address") {
     const addressInput = document.querySelector('input[data-field-name="Address"]');
     const postalInput = document.querySelector('input[data-field-name="Postal"]');
@@ -321,23 +304,17 @@ if (fieldName === "Address") {
     if (addressInput) {
         const parts = [];
 
-        // Postal first
         if (addressInput.dataset.postal) parts.push(addressInput.dataset.postal);
         else if (postalInput?.value) parts.push(postalInput.value);
 
-        // Street: dataset.street or the actual input value
         if (addressInput.dataset.street) parts.push(addressInput.dataset.street);
         else if (addressInput.value) parts.push(addressInput.value);
 
-        // Cross street
         if (addressInput.dataset.cross) parts.push(`at ${addressInput.dataset.cross}`);
 
         value = parts.join(", ");
     }
 }
-
-
-
 
             if (value) {
                 const spoken = field.includeFieldName && field.saidName
@@ -354,14 +331,13 @@ if (fieldName === "Address") {
             const localTime = `${hours}:${minutes}`;
             block.push(`timeout, ${localTime}`);
         }
-        
+
         outputBlocks.push(block.join(", "));
     }
 
     return outputBlocks.join(", ");
 }
 
-// Get speaker data from backend for debug mode
 async function fetchSpeakers() {
     if (!config?.communityID) {
         console.error("No communityID in YAML");
@@ -416,9 +392,6 @@ function getSelectedDepartments() {
     )].map(cb => cb.value);
 }
 
-
-
-// Generate Murf audio
 async function generateMurfAudio(text) {
     const apiKey = config?.murfApiKey;
     if (!apiKey) throw new Error("No Murf API key in YAML!");
@@ -442,7 +415,6 @@ async function generateMurfAudio(text) {
     return data.audioFile;
 }
 
-// Send to local server proxy
 async function sendToSonoran(audioUrl, targets, mode) {
     const resp = await fetch("https://avdp.johnnychillx.com/send_dispatch", {
         method: "POST",
@@ -456,7 +428,8 @@ async function sendToSonoran(audioUrl, targets, mode) {
             serverId: config.serverId,
             roomId: config.roomId,  
             audioUrl,
-            mode // <── NEW
+            mode 
+
         })
     });
 
@@ -469,11 +442,9 @@ async function sendDispatch() {
         const text = buildText();
         if (!text) return alert("No text generated!");
 
-        // --- Call Type --- later push notification stuff
         const callTypeInput = document.querySelector(`select[data-field-name="Call Type"]`);
         const callType = callTypeInput?.value || "Dispatch";
 
-        // --- Postal & Address (DECLARE ONCE) ---
         const postalInput = document.querySelector('input[data-field-name="Postal"]');
         const addressInput = document.querySelector('input[data-field-name="Address"]');
 
@@ -483,11 +454,8 @@ async function sendDispatch() {
             addressInput?.value ||
             "";
 
-        // --- Units (Departments only) ---
         const units = getSelectedDepartments();
 
-
-        // --- Audio routing logic ---
         const mode = document.getElementById("transmitMode").value;
 
         let targets = [];
@@ -499,7 +467,6 @@ async function sendDispatch() {
 
         if (!targets.length) return alert("Select at least one target!");
 
-        // STEP 1: Tone
         let toneFile = null;
 
         if (mode === "speaker") {
@@ -516,7 +483,6 @@ async function sendDispatch() {
             await sendToSonoran(toneUrl, targets, mode, postal, address);
         }
 
-        // STEP 2: Voice (TTS)
         const murfUrl = await generateMurfAudio(text);
         await new Promise(resolve => setTimeout(resolve, 4200));
 
