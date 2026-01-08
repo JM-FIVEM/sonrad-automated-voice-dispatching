@@ -16,7 +16,6 @@ After downloading the project, your `public` folder should look like this:
 public/
 ├─ audio/
 ├─ css/
-├─ images/
 ├─ index.html
 ├─ js/
 ├─ postals/
@@ -24,7 +23,6 @@ public/
 
 * `audio/`: Place audio tones here.
 * `css/`: Styles for the web interface.
-* `images/`: Any images used.
 * `index.html`: Main web interface.
 * `js/`: JavaScript files.
 * `postals/`: JSON postal datasets.
