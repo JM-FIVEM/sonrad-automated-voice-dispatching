@@ -1,7 +1,5 @@
 # JM Automated Voice Dispatch (AVD)
 
-![AVD Banner](https://example.com/banner.png)
-
 ## Overview
 
 JM Automated Voice Dispatch (AVD) is a web-based voice dispatch system for Sonoran Radio, leveraging Murf TTS for audio generation. It supports dispatching to speakers or channels, with customizable call types, postal codes, and departments.
