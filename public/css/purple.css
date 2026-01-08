@@ -1,0 +1,157 @@
+/* =====================
+   Theme Color Variables
+   ===================== */
+:root {
+  --c1: #8300A7; /* Accent */
+  --c2: #700090;
+  --c3: #61007B;
+  --c4: #53006A;
+  --c5: #430056;
+  --c6: #340042;
+  --c7: #24002F;
+  --c8: #17001F;
+  --c9: #0E0013;
+  --c10: #000000; /* Background */
+
+  --text: #f3e7ff;
+  --text-muted: #c8a8ff;
+}
+
+/* =====================
+   Base Layout
+   ===================== */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--c10);
+  color: var(--text);
+  margin: 0;
+}
+
+/* =====================
+   Header
+   ===================== */
+header {
+  background: var(--c8);
+  padding: 14px 20px;
+  font-size: 24px;
+  font-weight: 600;
+  border-bottom: 2px solid var(--c6);
+}
+
+/* =====================
+   Top Control Bar
+   ===================== */
+#topControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 12px;
+  background: var(--c9);
+  border-bottom: 1px solid var(--c6);
+  align-items: center;
+}
+
+/* =====================
+   Inputs
+   ===================== */
+select,
+input[type="file"],
+input[type="text"],
+textarea {
+  background: var(--c9);
+  color: var(--text);
+  border: 1px solid var(--c6);
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* =====================
+   Form Area
+   ===================== */
+#formContainer {
+  height: calc(100vh - 250px);
+  overflow-y: auto;
+  padding: 15px;
+}
+
+.field-label {
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-top: 15px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--c6);
+}
+
+/* =====================
+   Buttons
+   ===================== */
+button {
+  background: var(--c7);
+  border: 1px solid var(--c5);
+  color: var(--text);
+  padding: 8px 14px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+
+button:hover {
+  background: var(--c5);
+}
+
+button.danger {
+  background: var(--c2);
+  border-color: var(--c1);
+}
+
+button.danger:hover {
+  background: var(--c1);
+}
+
+/* =====================
+   Checkbox Groups
+   ===================== */
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.checkbox-group label {
+  background: var(--c8);
+  border: 1px solid var(--c6);
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.checkbox-group label:hover {
+  background: var(--c5);
+}
+
+.checkbox-group input {
+  margin-right: 6px;
+}
+
+/* =====================
+   Bottom Controls
+   ===================== */
+#bottomControls {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 12px;
+  border-top: 1px solid var(--c6);
+  background: var(--c9);
+}
+

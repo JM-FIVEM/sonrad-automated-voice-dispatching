@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>JM-AVD</title>
+
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>JM Automated Voice Dispatch</header>
+
+<div id="topControls">
+    <button onclick="document.getElementById('yamlFile').click()">Load Call Structure</button>
+    <input type="file" id="yamlFile" accept=".yaml,.yml" style="display:none" onchange="loadFromFile()">
+    <label style="margin-left:10px;">
+    <input type="checkbox" id="debugModeToggle"> Debug Mode
+</label>
+<button id="debugButton" style="display:none;" onclick="showDebugSpeakers()">Show Speaker IDs</button>
+<div id="debugOutput" style="display:none; background:#333; color:white; padding:6px; margin-top:6px; max-height:200px; overflow:auto; font-family:monospace;"></div>
+<div class="field-label">Postal Dataset</div>
+<select id="postalDataset">
+    <option value="old-postals.json">Old Postals</option>
+    <option value="new-postals.json">New Postals</option>
+    <option value="ocrp-postals.json">OCRP Postals</option>
+</select>
+<div class="field-label">Transmission Mode</div>
+<select id="transmitMode">
+    <option value="speaker">Speakers</option>
+    <option value="channel">Radio Channel</option>
+
+</select>
+
+<div id="channelDropdownContainer" style="display:none;">
+    <div class="field-label">Channels</div>
+    <div id="channelsDropdown" class="checkbox-group"></div>
+</div>
+</div>
+
+<div id="formContainer">
+    <div id="dynamicForm"></div>
+</div>
+
+<div id="bottomControls">
+    <button onclick="resetForm()">Reset Entry</button>
+    <button class="danger" onclick="sendDispatch()">Send to Queue</button>
+</div>
+
+<textarea id="yamlInput" style="display:none;"></textarea>
+<div id="consoleOutput"></div>
+
+<audio id="audioPlayer" controls style="display:none; margin: 10px 0;"></audio>
+<span style="text-align: center; display: none;"><h5>Created by @johnnychillx</h5></span>
+
+<script src="js/script2.js"></script>
+</body>
+</html>
