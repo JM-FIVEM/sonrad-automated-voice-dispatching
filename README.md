@@ -2,6 +2,8 @@
 
 ## Overview
 
+[INSTALLATION VIDEO](https://youtu.be/ynVaMEZOTMI)
+
 JM Automated Voice Dispatch (AVD) is a web-based voice dispatch system for Sonoran Radio, leveraging Murf TTS for audio generation. It supports dispatching to speakers or channels, with customizable call types, postal codes, and departments.
 
 **Important:** If you are not using the default proxy server, you will need HTTPS setup through a domain. The proxy server must be port-forwarded because audio files streamed to Sonoran are hosted there. It is highly recommended to leave the default proxy server unless you know what you are doing.
@@ -16,7 +18,6 @@ After downloading the project, your `public` folder should look like this:
 public/
 ├─ audio/
 ├─ css/
-├─ images/
 ├─ index.html
 ├─ js/
 ├─ postals/
@@ -24,7 +25,6 @@ public/
 
 * `audio/`: Place audio tones here.
 * `css/`: Styles for the web interface.
-* `images/`: Any images used.
 * `index.html`: Main web interface.
 * `js/`: JavaScript files.
 * `postals/`: JSON postal datasets.
@@ -72,7 +72,7 @@ ssoToken: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
 
 # Sonoran Server and Room ID
 serverId: "xxxxx"
-roomId: "1" # Usually "1"
+roomId: "0" # Usually "0"
 
 Speakers:
   - label: "Station 2"

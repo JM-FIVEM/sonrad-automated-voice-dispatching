@@ -15,7 +15,7 @@ ssoToken: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
 
 # Sonoran Radio Server and Room ID (Look at readme for how to find)
 serverId: "xxxxx"
-roomId: "1" # Usually "1" unless you have multiple rooms / FiveM servers on the same Sonoran Radio Community
+roomId: "0" # Usually "0" unless you have multiple rooms / FiveM servers on the same Sonoran Radio Community
 
 Speakers:
   - label: "Station 2"
