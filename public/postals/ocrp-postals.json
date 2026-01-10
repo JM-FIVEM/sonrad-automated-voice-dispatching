@@ -1,0 +1,5188 @@
+{
+    "415": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Glory Way",
+            "Popular St"
+        ]
+    },
+    "315": {
+        "street": "Cortes St",
+        "cross": [
+            "Bay City Ave",
+            "Vitus St"
+        ]
+    },
+    "615": {
+        "street": "Playa Vista",
+        "cross": [
+            "Bay City Ave"
+        ]
+    },
+    "515": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Milton Rd",
+            "Strangeways Dr"
+        ]
+    },
+    "671": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Del Perro Fwy",
+            "Heritage Way"
+        ]
+    },
+    "96": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "86": {
+        "street": "Dutch London St",
+        "cross": [
+            "Autopia Pkwy",
+            "Davis Ave"
+        ]
+    },
+    "115": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Forum Dr",
+            "Power St"
+        ]
+    },
+    "871": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Hillcrest Ridge Access Rd",
+            "Hillcrest Ave"
+        ]
+    },
+    "815": {
+        "street": "Great Ocean Hwy",
+        "cross": [
+            "Ineseno Road"
+        ]
+    },
+    "715": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Didion Dr",
+            "Wild Oats Dr"
+        ]
+    },
+    "1035": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "915": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Route 68"
+        ]
+    },
+    "13": {
+        "street": "Popular St",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "23": {
+        "street": "Jamestown St",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "33": {
+        "street": "Dutch London St",
+        "cross": [
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "43": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy",
+            "Dutch London St"
+        ]
+    },
+    "53": {
+        "street": "Labor Pl",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "505": {
+        "street": "South Boulevard Del Perro",
+        "cross": [
+            "Rockford Dr",
+            "Eastbourne Way"
+        ]
+    },
+    "605": {
+        "street": "Del Perro Fwy",
+        "cross": []
+    },
+    "305": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Palomino Ave",
+            "Vitus St"
+        ]
+    },
+    "405": {
+        "street": "York St",
+        "cross": [
+            "Los Santos Freeway",
+            "Bridge St"
+        ]
+    },
+    "105": {
+        "street": "Alta St",
+        "cross": [
+            "Carson Ave",
+            "Innocence Blvd"
+        ]
+    },
+    "205": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Strawberry Ave"
+        ]
+    },
+    "75": {
+        "street": "Carson Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "85": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "2025": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3025": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "905": {
+        "street": "Barbareno Rd",
+        "cross": []
+    },
+    "705": {
+        "street": "Milton Rd",
+        "cross": [
+            "Didion Dr"
+        ]
+    },
+    "805": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "1013": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "2015": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3013": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "2013": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "66": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "56": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "46": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "36": {
+        "street": "Jamestown St",
+        "cross": [
+            "Roy Lowenstein Blvd",
+            "Dutch London St"
+        ]
+    },
+    "1015": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "16": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "335": {
+        "street": "Imagination Ct",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "191": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "El Burro Blvd"
+        ]
+    },
+    "135": {
+        "street": "Davis Ave",
+        "cross": [
+            "Macdonald St"
+        ]
+    },
+    "391": {
+        "street": "Power St",
+        "cross": [
+            "Vespucci Blvd",
+            "Low Power St"
+        ]
+    },
+    "635": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "North Rockford Dr",
+            "Prosperity St"
+        ]
+    },
+    "535": {
+        "street": "Eclipse Blvd",
+        "cross": []
+    },
+    "435": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "891": {
+        "street": "Hillcrest Ave",
+        "cross": [
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "1028": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "94": {
+        "street": "Greenwich Pkwy",
+        "cross": []
+    },
+    "1023": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "2023": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3023": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "3028": {
+        "street": "Procopio Promenade",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "11": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "41": {
+        "street": "Dutch London St",
+        "cross": [
+            "Autopia Pkwy",
+            "Davis Ave"
+        ]
+    },
+    "51": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "21": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave",
+            "Dutch London St"
+        ]
+    },
+    "31": {
+        "street": "Autopia Pkwy",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "181": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Orchardville Ave",
+            "Capital Blvd"
+        ]
+    },
+    "425": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Bridge St",
+            "Mirror Park Blvd"
+        ]
+    },
+    "525": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Milton Rd",
+            "Spanish Ave"
+        ]
+    },
+    "625": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "Prosperity St",
+            "Liberty St"
+        ]
+    },
+    "581": {
+        "street": "Alta Pl",
+        "cross": [
+            "Hawick Ave",
+            "Power St"
+        ]
+    },
+    "125": {
+        "street": "Power St",
+        "cross": [
+            "Olympic Fwy",
+            "Innocence Blvd"
+        ]
+    },
+    "225": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Vespucci Blvd",
+            "Popular St"
+        ]
+    },
+    "63": {
+        "street": "Orchardville Ave",
+        "cross": []
+    },
+    "190": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "Labor Pl",
+            "Fudge Ln"
+        ]
+    },
+    "194": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "El Rancho Blvd",
+            "Fudge Ln"
+        ]
+    },
+    "93": {
+        "street": "Greenwich Pkwy",
+        "cross": []
+    },
+    "725": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "590": {
+        "street": "Power St",
+        "cross": [
+            "Vinewood Blvd",
+            "Clinton Ave"
+        ]
+    },
+    "925": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "890": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Hillcrest Ave",
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "14": {
+        "street": "Orchardville Ave",
+        "cross": []
+    },
+    "894": {
+        "street": "Normandy Dr",
+        "cross": [
+            "Hillcrest Ave"
+        ]
+    },
+    "34": {
+        "street": "Dutch London St",
+        "cross": [
+            "Autopia Pkwy",
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "24": {
+        "street": "Jamestown St",
+        "cross": [
+            "Roy Lowenstein Blvd",
+            "Dutch London St"
+        ]
+    },
+    "54": {
+        "street": "Labor Pl",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "44": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "155": {
+        "street": "Little Bighorn Ave",
+        "cross": [
+            "Crusade Rd",
+            "Capital Blvd"
+        ]
+    },
+    "355": {
+        "street": "Tackle St",
+        "cross": [
+            "Palomino Ave"
+        ]
+    },
+    "3006": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "555": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Hawick Ave",
+            "San Vitus Blvd"
+        ]
+    },
+    "1046": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3001": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "2001": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "72": {
+        "street": "Dutch London St",
+        "cross": [
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "62": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "684": {
+        "street": "Dunstable Dr",
+        "cross": [
+            "Greenwich Way",
+            "Picture Perfect Drive"
+        ]
+    },
+    "180": {
+        "street": "El Rancho Blvd",
+        "cross": [
+            "Elysian Fields Fwy",
+            "Capital Blvd"
+        ]
+    },
+    "584": {
+        "street": "Power St",
+        "cross": [
+            "Occupation Ave",
+            "Meteor St"
+        ]
+    },
+    "173": {
+        "street": "Labor Pl",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "884": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "South Mo Milton Dr",
+            "Hillcrest Ave"
+        ]
+    },
+    "373": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Calais Ave"
+        ]
+    },
+    "573": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Las Lagunas Blvd",
+            "Clinton Ave"
+        ]
+    },
+    "1001": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "192": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "El Rancho Blvd",
+            "Fudge Ln"
+        ]
+    },
+    "392": {
+        "street": "Alta St",
+        "cross": [
+            "Power St"
+        ]
+    },
+    "592": {
+        "street": "Vinewood Blvd",
+        "cross": [
+            "Bridge St",
+            "Elgin Ave"
+        ]
+    },
+    "692": {
+        "street": "West Eclipse Blvd",
+        "cross": [
+            "Edwood Way",
+            "Rockford Dr"
+        ]
+    },
+    "2011": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "345": {
+        "street": "Imagination Ct",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "145": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave",
+            "Macdonald St"
+        ]
+    },
+    "645": {
+        "street": "Perth St",
+        "cross": [
+            "Boulevard Del Perro",
+            "Morningwood Blvd"
+        ]
+    },
+    "445": {
+        "street": "Utopia Gardens",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "545": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "San Vitus Blvd"
+        ]
+    },
+    "174": {
+        "street": "Labor Pl",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "91": {
+        "street": "Greenwich Pkwy",
+        "cross": []
+    },
+    "845": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Richman St"
+        ]
+    },
+    "945": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "170": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Popular St",
+            "Orchardville Ave"
+        ]
+    },
+    "674": {
+        "street": "Greenwich Way",
+        "cross": [
+            "West Eclipse Blvd",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "163": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Popular St",
+            "Capital Blvd"
+        ]
+    },
+    "874": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Cockingend Dr"
+        ]
+    },
+    "363": {
+        "street": "Calais Ave",
+        "cross": [
+            "South Rockford Dr"
+        ]
+    },
+    "563": {
+        "street": "Hawick Ave",
+        "cross": [
+            "Las Lagunas Blvd"
+        ]
+    },
+    "42": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy",
+            "Dutch London St"
+        ]
+    },
+    "32": {
+        "street": "Autopia Pkwy",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "22": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave",
+            "Dutch London St"
+        ]
+    },
+    "963": {
+        "street": "Los Santos Freeway",
+        "cross": []
+    },
+    "182": {
+        "street": "Labor Pl",
+        "cross": []
+    },
+    "382": {
+        "street": "Alta St",
+        "cross": [
+            "Vespucci Blvd",
+            "La Puerta Fwy"
+        ]
+    },
+    "582": {
+        "street": "Power St",
+        "cross": [
+            "Hawick Ave",
+            "Meteor St"
+        ]
+    },
+    "682": {
+        "street": "Portola Dr",
+        "cross": [
+            "South Boulevard Del Perro",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "862": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "962": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "90": {
+        "street": "Greenwich Pkwy",
+        "cross": []
+    },
+    "660": {
+        "street": "Marathon Ave",
+        "cross": [
+            "Movie Star Way",
+            "Heritage Way"
+        ]
+    },
+    "364": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "Ginger St"
+        ]
+    },
+    "60": {
+        "street": "Popular St",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "564": {
+        "street": "Whispymound Dr",
+        "cross": [
+            "Las Lagunas Blvd",
+            "Didion Dr"
+        ]
+    },
+    "664": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Movie Star Way",
+            "Marathon Ave"
+        ]
+    },
+    "160": {
+        "street": "Little Bighorn Ave",
+        "cross": [
+            "Macdonald St",
+            "Jamestown St"
+        ]
+    },
+    "864": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Cockingend Dr"
+        ]
+    },
+    "393": {
+        "street": "Adam's Apple Blvd",
+        "cross": [
+            "Alta St",
+            "Power St"
+        ]
+    },
+    "193": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "El Rancho Blvd",
+            "Fudge Ln"
+        ]
+    },
+    "693": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Edwood Way",
+            "Rockford Dr"
+        ]
+    },
+    "593": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Meteor St",
+            "Elgin Ave"
+        ]
+    },
+    "372": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Calais Ave",
+            "Vespucci Blvd"
+        ]
+    },
+    "893": {
+        "street": "Milton Rd",
+        "cross": [
+            "Normandy Dr"
+        ]
+    },
+    "672": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Del Perro Fwy"
+        ]
+    },
+    "572": {
+        "street": "Whispymound Dr",
+        "cross": [
+            "Las Lagunas Blvd",
+            "Wild Oats Dr"
+        ]
+    },
+    "165": {
+        "street": "Popular St",
+        "cross": [
+            "Innocence Blvd",
+            "Little Bighorn Ave"
+        ]
+    },
+    "365": {
+        "street": "Ginger St",
+        "cross": [
+            "Vespucci Blvd",
+            "Decker St"
+        ]
+    },
+    "565": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Didion Dr",
+            "Gentry Lane"
+        ]
+    },
+    "665": {
+        "street": "Heritage Way",
+        "cross": [
+            "Movie Star Way",
+            "Marathon Ave"
+        ]
+    },
+    "865": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "450": {
+        "street": "Palomino Fwy",
+        "cross": [
+            "Sustancia Rd"
+        ]
+    },
+    "550": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Didion Dr",
+            "Cox Way"
+        ]
+    },
+    "650": {
+        "street": "Americano Way",
+        "cross": [
+            "Sam Austin Dr",
+            "West Eclipse Blvd"
+        ]
+    },
+    "150": {
+        "street": "Davis Ave",
+        "cross": [
+            "Innocence Blvd"
+        ]
+    },
+    "20": {
+        "street": "Jamestown St",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "10": {
+        "street": "Popular St",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "183": {
+        "street": "El Rancho Blvd",
+        "cross": [
+            "Capital Blvd"
+        ]
+    },
+    "30": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "850": {
+        "street": "Hangman Ave",
+        "cross": [
+            "North Sheldon Ave"
+        ]
+    },
+    "950": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "1048": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3016": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "162": {
+        "street": "Popular St",
+        "cross": [
+            "Olympic Fwy"
+        ]
+    },
+    "662": {
+        "street": "Dorset Dr",
+        "cross": [
+            "West Eclipse Blvd",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "1021": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "562": {
+        "street": "Las Lagunas Blvd",
+        "cross": [
+            "San Vitus Blvd",
+            "Spanish Ave"
+        ]
+    },
+    "139": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave",
+            "Dutch London St"
+        ]
+    },
+    "339": {
+        "street": "Goma St",
+        "cross": [
+            "Tug St",
+            "Rub St"
+        ]
+    },
+    "439": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "539": {
+        "street": "Carcer Way",
+        "cross": [
+            "San Vitus Blvd"
+        ]
+    },
+    "639": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Americano Way"
+        ]
+    },
+    "839": {
+        "street": "Richman St",
+        "cross": [
+            "Ace Jones Dr",
+            "North Rockford Dr"
+        ]
+    },
+    "939": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "348": {
+        "street": "Tackle St",
+        "cross": [
+            "Palomino Ave"
+        ]
+    },
+    "548": {
+        "street": "Spanish Ave",
+        "cross": [
+            "San Vitus Blvd"
+        ]
+    },
+    "448": {
+        "street": "Utopia Gardens",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "648": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Americano Way"
+        ]
+    },
+    "948": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "848": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Ace Jones Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "3031": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "1031": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "156": {
+        "street": "Capital Blvd",
+        "cross": [
+            "Little Bighorn Ave"
+        ]
+    },
+    "356": {
+        "street": "Tackle St",
+        "cross": []
+    },
+    "556": {
+        "street": "Hawick Ave",
+        "cross": [
+            "San Vitus Blvd"
+        ]
+    },
+    "656": {
+        "street": "Morningwood Blvd",
+        "cross": [
+            "Marathon Ave",
+            "Boulevard Del Perro"
+        ]
+    },
+    "129": {
+        "street": "Carson Ave",
+        "cross": [
+            "Macdonald St",
+            "Davis Ave"
+        ]
+    },
+    "329": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Tug St",
+            "Rub St"
+        ]
+    },
+    "229": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Popular St",
+            "San Andreas Ave"
+        ]
+    },
+    "529": {
+        "street": "Eastbourne Way",
+        "cross": [
+            "Carcer Way",
+            "San Vitus Blvd"
+        ]
+    },
+    "429": {
+        "street": "Nikola Ave",
+        "cross": [
+            "West Mirror Drive"
+        ]
+    },
+    "629": {
+        "street": "Red Desert Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "Marathon Ave"
+        ]
+    },
+    "929": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "138": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Carson Ave",
+            "Jamestown St"
+        ]
+    },
+    "338": {
+        "street": "Palomino Ave",
+        "cross": []
+    },
+    "438": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "538": {
+        "street": "San Vitus Blvd",
+        "cross": [
+            "Eastbourne Way",
+            "Hawick Ave"
+        ]
+    },
+    "638": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Del Perro Fwy",
+            "Red Desert Ave"
+        ]
+    },
+    "838": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "147": {
+        "street": "Carson Ave",
+        "cross": []
+    },
+    "347": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "447": {
+        "street": "Utopia Gardens",
+        "cross": [
+            "East Mirror Dr",
+            "Nikola Pl"
+        ]
+    },
+    "547": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Eclipse Blvd",
+            "Eastbourne Way"
+        ]
+    },
+    "647": {
+        "street": "Marathon Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "Heritage Way"
+        ]
+    },
+    "847": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "947": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "2003": {
+        "street": "Cassidy Trail",
+        "cross": []
+    },
+    "1003": {
+        "street": "Fort Zancudo Approach Rd",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "2005": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "1005": {
+        "street": "Route 68",
+        "cross": []
+    },
+    "3005": {
+        "street": "Procopio Promenade",
+        "cross": [
+            "Paleto Blvd"
+        ]
+    },
+    "866": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Hillcrest Ridge Access Rd",
+            "South Mo Milton Dr"
+        ]
+    },
+    "137": {
+        "street": "Macdonald St",
+        "cross": [
+            "Carson Ave",
+            "Brouge Ave"
+        ]
+    },
+    "337": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "537": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Eastbourne Way",
+            "San Vitus Blvd"
+        ]
+    },
+    "437": {
+        "street": "Nikola Ave",
+        "cross": [
+            "East Mirror Dr",
+            "Mirror Park Blvd"
+        ]
+    },
+    "637": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Marathon Ave",
+            "North Rockford Dr"
+        ]
+    },
+    "937": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "336": {
+        "street": "Invention Ct",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "136": {
+        "street": "Macdonald St",
+        "cross": [
+            "Brouge Ave",
+            "Davis Ave"
+        ]
+    },
+    "636": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "North Rockford Dr",
+            "Prosperity St"
+        ]
+    },
+    "436": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "East Mirror Dr",
+            "Nikola Ave"
+        ]
+    },
+    "536": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Eastbourne Way",
+            "Spanish Ave"
+        ]
+    },
+    "856": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "West Eclipse Blvd"
+        ]
+    },
+    "956": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "367": {
+        "street": "Lindsay Circus",
+        "cross": [
+            "Palomino Ave",
+            "Ginger St"
+        ]
+    },
+    "167": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "667": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Greenwich Pl"
+        ]
+    },
+    "567": {
+        "street": "Clinton Ave",
+        "cross": [
+            "Alta St",
+            "Vinewood Blvd"
+        ]
+    },
+    "166": {
+        "street": "Popular St",
+        "cross": []
+    },
+    "867": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Cockingend Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "566": {
+        "street": "Didion Dr",
+        "cross": [
+            "Las Lagunas Blvd",
+            "Clinton Ave"
+        ]
+    },
+    "666": {
+        "street": "Heritage Way",
+        "cross": [
+            "Del Perro Fwy"
+        ]
+    },
+    "379": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Calais Ave",
+            "Lindsay Circus"
+        ]
+    },
+    "946": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "846": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "North Sheldon Ave"
+        ]
+    },
+    "179": {
+        "street": "Elysian Fields Fwy",
+        "cross": [
+            "El Rancho Blvd",
+            "Capital Blvd"
+        ]
+    },
+    "408": {
+        "street": "Tangerine St",
+        "cross": [
+            "Bridge St",
+            "Mirror Park Blvd"
+        ]
+    },
+    "308": {
+        "street": "Goma St",
+        "cross": [
+            "Bay City Ave",
+            "Magellan Ave"
+        ]
+    },
+    "608": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Del Perro Fwy"
+        ]
+    },
+    "508": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Del Perro Fwy",
+            "La Puerta Fwy"
+        ]
+    },
+    "1041": {
+        "street": "North Calafia Way",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "879": {
+        "street": "Hillcrest Ridge Access Rd",
+        "cross": [
+            "South Mo Milton Dr",
+            "Cockingend Dr"
+        ]
+    },
+    "208": {
+        "street": "Sinner St",
+        "cross": [
+            "Strawberry Ave",
+            "San Andreas Ave"
+        ]
+    },
+    "108": {
+        "street": "Forum Dr",
+        "cross": [
+            "Davis Ave"
+        ]
+    },
+    "357": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Vespucci Blvd",
+            "Decker St"
+        ]
+    },
+    "157": {
+        "street": "Capital Blvd",
+        "cross": [
+            "Davis Ave",
+            "Little Bighorn Ave"
+        ]
+    },
+    "808": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "657": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Cougar Ave"
+        ]
+    },
+    "557": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Didion Dr",
+            "Gentry Lane"
+        ]
+    },
+    "908": {
+        "street": "Barbareno Rd",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "316": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Palomino Ave",
+            "Bay City Ave"
+        ]
+    },
+    "1037": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "516": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Milton Rd",
+            "South Mo Milton Dr"
+        ]
+    },
+    "857": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "South Mo Milton Dr"
+        ]
+    },
+    "1009": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "2021": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "116": {
+        "street": "Forum Dr",
+        "cross": [
+            "Innocence Blvd",
+            "Carson Ave"
+        ]
+    },
+    "2009": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "1033": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "369": {
+        "street": "Ginger St",
+        "cross": [
+            "Palomino Ave",
+            "San Andreas Ave"
+        ]
+    },
+    "669": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "South Boulevard Del Perro",
+            "Dorset Dr"
+        ]
+    },
+    "569": {
+        "street": "Laguna Pl",
+        "cross": [
+            "Las Lagunas Blvd",
+            "Spanish Ave"
+        ]
+    },
+    "133": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Olympic Fwy"
+        ]
+    },
+    "1019": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "2019": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "169": {
+        "street": "Popular St",
+        "cross": [
+            "Innocence Blvd",
+            "Elysian Fields Fwy"
+        ]
+    },
+    "433": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "Glory Way"
+        ]
+    },
+    "333": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Prosperity St",
+            "San Andreas Ave"
+        ]
+    },
+    "902": {
+        "street": "Barbareno Rd",
+        "cross": []
+    },
+    "533": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd",
+            "Cox Way"
+        ]
+    },
+    "869": {
+        "street": "Cockingend Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "3003": {
+        "street": "Procopio Promenade",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "330": {
+        "street": "Rub St",
+        "cross": [
+            "Bay City Ave"
+        ]
+    },
+    "561": {
+        "street": "North Archer Ave",
+        "cross": [
+            "Las Lagunas Blvd"
+        ]
+    },
+    "307": {
+        "street": "Aguja St",
+        "cross": [
+            "Goma St",
+            "Magellan Ave"
+        ]
+    },
+    "407": {
+        "street": "Glory Way",
+        "cross": [
+            "Los Santos Freeway"
+        ]
+    },
+    "507": {
+        "street": "Carcer Way",
+        "cross": [
+            "Dorset Dr"
+        ]
+    },
+    "607": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Del Perro Fwy"
+        ]
+    },
+    "130": {
+        "street": "Carson Ave",
+        "cross": [
+            "Brouge Ave"
+        ]
+    },
+    "230": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Vespucci Blvd",
+            "Popular St"
+        ]
+    },
+    "107": {
+        "street": "Forum Dr",
+        "cross": [
+            "Carson Ave",
+            "Davis Ave"
+        ]
+    },
+    "207": {
+        "street": "Integrity Way",
+        "cross": [
+            "Strawberry Ave",
+            "Los Santos Freeway"
+        ]
+    },
+    "346": {
+        "street": "Invention Ct",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "835": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "146": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "830": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "707": {
+        "street": "Baytree Canyon Rd",
+        "cross": []
+    },
+    "807": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "546": {
+        "street": "San Vitus Blvd",
+        "cross": [
+            "Eclipse Blvd",
+            "Spanish Ave"
+        ]
+    },
+    "446": {
+        "street": "Utopia Gardens",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "219": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "319": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Tug St",
+            "Melanoma St"
+        ]
+    },
+    "530": {
+        "street": "Didion Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Milton Rd"
+        ]
+    },
+    "119": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Carson Ave",
+            "Davis Ave"
+        ]
+    },
+    "826": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "726": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "419": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Del Perro Fwy",
+            "Nikola Ave"
+        ]
+    },
+    "926": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "368": {
+        "street": "Palomino Ave",
+        "cross": [
+            "South Rockford Dr"
+        ]
+    },
+    "630": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Red Desert Ave"
+        ]
+    },
+    "168": {
+        "street": "Popular St",
+        "cross": [
+            "Elysian Fields Fwy",
+            "Capital Blvd"
+        ]
+    },
+    "919": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Calafia Rd"
+        ]
+    },
+    "431": {
+        "street": "Mirror Pl",
+        "cross": [
+            "West Mirror Drive",
+            "Del Perro Fwy"
+        ]
+    },
+    "668": {
+        "street": "West Eclipse Blvd",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Greenwich Pl"
+        ]
+    },
+    "568": {
+        "street": "Las Lagunas Blvd",
+        "cross": [
+            "Vinewood Blvd",
+            "Laguna Pl"
+        ]
+    },
+    "331": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Bay City Ave"
+        ]
+    },
+    "1027": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "930": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "3027": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "868": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Cockingend Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "360": {
+        "street": "Ginger St",
+        "cross": [
+            "South Rockford Dr",
+            "Palomino Ave"
+        ]
+    },
+    "858": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "South Mo Milton Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "802": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "631": {
+        "street": "West Eclipse Blvd",
+        "cross": []
+    },
+    "531": {
+        "street": "Milton Rd",
+        "cross": [
+            "Cox Way"
+        ]
+    },
+    "889": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "77": {
+        "street": "Popular St",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "47": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "931": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "27": {
+        "street": "Carson Ave",
+        "cross": [
+            "Popular St",
+            "Little Bighorn Ave"
+        ]
+    },
+    "37": {
+        "street": "Jamestown St",
+        "cross": [
+            "Roy Lowenstein Blvd",
+            "Dutch London St"
+        ]
+    },
+    "652": {
+        "street": "Cougar Ave",
+        "cross": [
+            "Morningwood Blvd",
+            "West Eclipse Blvd"
+        ]
+    },
+    "309": {
+        "street": "Goma St",
+        "cross": [
+            "Melanoma St",
+            "Bay City Ave"
+        ]
+    },
+    "209": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Strawberry Ave",
+            "Atlee St"
+        ]
+    },
+    "109": {
+        "street": "Davis Ave",
+        "cross": [
+            "Forum Dr"
+        ]
+    },
+    "2027": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "709": {
+        "street": "Lake Vinewood Est",
+        "cross": []
+    },
+    "1051": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "509": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Del Perro Fwy",
+            "La Puerta Fwy"
+        ]
+    },
+    "409": {
+        "street": "Glory Way",
+        "cross": [
+            "Bridge St",
+            "Tangerine St"
+        ]
+    },
+    "143": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Macdonald St",
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "358": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Ginger St",
+            "Decker St"
+        ]
+    },
+    "909": {
+        "street": "Banham Canyon Dr",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "809": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "658": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Boulevard Del Perro"
+        ]
+    },
+    "852": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "Picture Perfect Drive"
+        ]
+    },
+    "343": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "558": {
+        "street": "Didion Dr",
+        "cross": [
+            "Gentry Lane"
+        ]
+    },
+    "527": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Milton Rd",
+            "Hawick Ave"
+        ]
+    },
+    "627": {
+        "street": "Marathon Ave",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "327": {
+        "street": "Aguja St",
+        "cross": [
+            "Goma St",
+            "Palomino Ave"
+        ]
+    },
+    "958": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "127": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Forum Dr"
+        ]
+    },
+    "227": {
+        "street": "Supply St",
+        "cross": [
+            "Popular St",
+            "San Andreas Ave"
+        ]
+    },
+    "443": {
+        "street": "Nikola Pl",
+        "cross": [
+            "East Mirror Dr",
+            "Nikola Ave"
+        ]
+    },
+    "427": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Bridge St",
+            "Nikola Ave"
+        ]
+    },
+    "426": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "Bridge St",
+            "Nikola Ave"
+        ]
+    },
+    "326": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Palomino Ave",
+            "Invention Ct"
+        ]
+    },
+    "626": {
+        "street": "Marathon Ave",
+        "cross": [
+            "Bay City Ave",
+            "Boulevard Del Perro"
+        ]
+    },
+    "526": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "927": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "2007": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "727": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "126": {
+        "street": "Forum Dr",
+        "cross": [
+            "Innocence Blvd"
+        ]
+    },
+    "837": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Richman St"
+        ]
+    },
+    "3015": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "943": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "340": {
+        "street": "Rub St",
+        "cross": []
+    },
+    "140": {
+        "street": "Crusade Rd",
+        "cross": [
+            "Strawberry Ave",
+            "Innocence Blvd"
+        ]
+    },
+    "906": {
+        "street": "Barbareno Rd",
+        "cross": []
+    },
+    "806": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "706": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Didion Dr",
+            "Milton Rd"
+        ]
+    },
+    "384": {
+        "street": "Alta St",
+        "cross": [
+            "La Puerta Fwy"
+        ]
+    },
+    "617": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "Bay City Ave"
+        ]
+    },
+    "3011": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "540": {
+        "street": "Las Lagunas Blvd",
+        "cross": [
+            "Dorset Dr",
+            "Alta St"
+        ]
+    },
+    "341": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "North Rockford Dr",
+            "San Andreas Ave"
+        ]
+    },
+    "441": {
+        "street": "Nikola Pl",
+        "cross": [
+            "East Mirror Dr",
+            "Nikola Ave"
+        ]
+    },
+    "141": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Davis Ave"
+        ]
+    },
+    "552": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Gentry Lane"
+        ]
+    },
+    "1044": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "517": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "Milton Rd",
+            "Strangeways Dr"
+        ]
+    },
+    "417": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "317": {
+        "street": "Aguja St",
+        "cross": [
+            "Bay City Ave",
+            "Palomino Ave"
+        ]
+    },
+    "217": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Little Bighorn Ave",
+            "Atlee St"
+        ]
+    },
+    "117": {
+        "street": "Carson Ave",
+        "cross": [
+            "Forum Dr",
+            "Strawberry Ave"
+        ]
+    },
+    "841": {
+        "street": "Richman St",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "541": {
+        "street": "Didion Dr",
+        "cross": []
+    },
+    "2014": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3014": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "82": {
+        "street": "Davis Ave",
+        "cross": []
+    },
+    "1014": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "701": {
+        "street": "Normandy Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Milton Rd"
+        ]
+    },
+    "917": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "817": {
+        "street": "Banham Canyon Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "717": {
+        "street": "Marlowe Dr",
+        "cross": [
+            "Baytree Canyon Rd"
+        ]
+    },
+    "831": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "95": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Greenwich Pkwy",
+            "Autopia Pkwy"
+        ]
+    },
+    "632": {
+        "street": "West Eclipse Blvd",
+        "cross": [
+            "Prosperity St",
+            "Cougar Ave"
+        ]
+    },
+    "832": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "413": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Bridge St",
+            "Glory Way"
+        ]
+    },
+    "683": {
+        "street": "Portola Dr",
+        "cross": [
+            "Dorset Dr"
+        ]
+    },
+    "587": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Baytree Canyon Rd",
+            "Clinton Ave"
+        ]
+    },
+    "113": {
+        "street": "Grove St",
+        "cross": [
+            "Brouge Ave",
+            "Dutch London St"
+        ]
+    },
+    "1052": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "513": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "2024": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "210": {
+        "street": "Atlee St",
+        "cross": [
+            "Vespucci Blvd"
+        ]
+    },
+    "3029": {
+        "street": "Procopio Promenade",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "310": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Melanoma St",
+            "Rub St"
+        ]
+    },
+    "1029": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "410": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "Bridge St"
+        ]
+    },
+    "510": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Del Perro Fwy",
+            "Dorset Dr"
+        ]
+    },
+    "610": {
+        "street": "Magellan Ave",
+        "cross": []
+    },
+    "710": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Wild Oats Dr"
+        ]
+    },
+    "810": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "910": {
+        "street": "Buen Vino Rd",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "923": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Baytree Canyon Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "411": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "West Mirror Drive"
+        ]
+    },
+    "311": {
+        "street": "Greenwich Pkwy",
+        "cross": [
+            "Goma St",
+            "Bay City Ave"
+        ]
+    },
+    "606": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Magellan Ave"
+        ]
+    },
+    "506": {
+        "street": "Rockford Dr",
+        "cross": [
+            "Carcer Way",
+            "Eastbourne Way"
+        ]
+    },
+    "406": {
+        "street": "Bridge St",
+        "cross": [
+            "Glory Way",
+            "Los Santos Freeway"
+        ]
+    },
+    "306": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Aguja St",
+            "Magellan Ave"
+        ]
+    },
+    "206": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Strawberry Ave"
+        ]
+    },
+    "106": {
+        "street": "Forum Dr",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "611": {
+        "street": "Red Desert Ave",
+        "cross": []
+    },
+    "511": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "South Mo Milton Dr"
+        ]
+    },
+    "559": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd",
+            "Gentry Lane"
+        ]
+    },
+    "659": {
+        "street": "South Boulevard Del Perro",
+        "cross": [
+            "Boulevard Del Perro",
+            "Marathon Ave"
+        ]
+    },
+    "359": {
+        "street": "Ginger St",
+        "cross": [
+            "South Rockford Dr"
+        ]
+    },
+    "811": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "159": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Jamestown St",
+            "Little Bighorn Ave"
+        ]
+    },
+    "711": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Cox Way",
+            "Didion Dr"
+        ]
+    },
+    "594": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Spanish Ave",
+            "Hawick Ave"
+        ]
+    },
+    "911": {
+        "street": "Buen Vino Rd",
+        "cross": []
+    },
+    "628": {
+        "street": "Marathon Ave",
+        "cross": [
+            "Red Desert Ave"
+        ]
+    },
+    "528": {
+        "street": "Hawick Ave",
+        "cross": [
+            "Milton Rd",
+            "Boulevard Del Perro"
+        ]
+    },
+    "428": {
+        "street": "Nikola Ave",
+        "cross": [
+            "West Mirror Drive",
+            "Mirror Pl"
+        ]
+    },
+    "328": {
+        "street": "Goma St",
+        "cross": [
+            "Tug St"
+        ]
+    },
+    "228": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Popular St",
+            "Supply St"
+        ]
+    },
+    "128": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Carson Ave",
+            "Davis Ave"
+        ]
+    },
+    "3009": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "859": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "694": {
+        "street": "Caesars Place",
+        "cross": [
+            "Rockford Dr",
+            "Boulevard Del Perro"
+        ]
+    },
+    "1024": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "542": {
+        "street": "Cox Way",
+        "cross": [
+            "Didion Dr"
+        ]
+    },
+    "842": {
+        "street": "Richman St",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "161": {
+        "street": "Little Bighorn Ave",
+        "cross": []
+    },
+    "928": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "828": {
+        "street": "Kortz Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "728": {
+        "street": "Los Santos Freeway",
+        "cross": []
+    },
+    "957": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "1038": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "123": {
+        "street": "Covenant Ave",
+        "cross": [
+            "Brouge Ave",
+            "Grove St"
+        ]
+    },
+    "597": {
+        "street": "Meteor St",
+        "cross": []
+    },
+    "708": {
+        "street": "Lake Vinewood Est",
+        "cross": [
+            "Marlowe Dr"
+        ]
+    },
+    "416": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Popular St",
+            "Glory Way"
+        ]
+    },
+    "836": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "178": {
+        "street": "Capital Blvd",
+        "cross": [
+            "Elysian Fields Fwy",
+            "El Rancho Blvd"
+        ]
+    },
+    "3007": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "549": {
+        "street": "Wild Oats Dr",
+        "cross": [
+            "Didion Dr",
+            "Cox Way"
+        ]
+    },
+    "449": {
+        "street": "El Rancho Blvd",
+        "cross": [
+            "Del Perro Fwy",
+            "Elysian Fields Fwy"
+        ]
+    },
+    "349": {
+        "street": "Shank St",
+        "cross": [
+            "Greenwich Pkwy"
+        ]
+    },
+    "1047": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "149": {
+        "street": "Crusade Rd",
+        "cross": [
+            "Davis Ave",
+            "Innocence Blvd"
+        ]
+    },
+    "362": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Calais Ave"
+        ]
+    },
+    "851": {
+        "street": "Hangman Ave",
+        "cross": [
+            "Ace Jones Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "518": {
+        "street": "Hawick Ave",
+        "cross": [
+            "Eastbourne Way",
+            "Abe Milton Pkwy"
+        ]
+    },
+    "618": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Marathon Ave"
+        ]
+    },
+    "318": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Goma St",
+            "Magellan Ave"
+        ]
+    },
+    "418": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Popular St",
+            "Del Perro Fwy"
+        ]
+    },
+    "118": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Forum Dr",
+            "Carson Ave"
+        ]
+    },
+    "949": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "849": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "596": {
+        "street": "Clinton Ave",
+        "cross": []
+    },
+    "855": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "South Mo Milton Dr"
+        ]
+    },
+    "620": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "Marathon Ave"
+        ]
+    },
+    "689": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Dunstable Dr",
+            "Dunstable Ln"
+        ]
+    },
+    "820": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "918": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "720": {
+        "street": "Mt Haan Rd",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "718": {
+        "street": "Whispymound Dr",
+        "cross": [
+            "Baytree Canyon Rd"
+        ]
+    },
+    "818": {
+        "street": "Banham Canyon Dr",
+        "cross": [
+            "North Rockford Dr",
+            "Ace Jones Dr"
+        ]
+    },
+    "74": {
+        "street": "Carson Ave",
+        "cross": []
+    },
+    "920": {
+        "street": "Baytree Canyon Rd",
+        "cross": []
+    },
+    "719": {
+        "street": "Mt Haan Dr",
+        "cross": []
+    },
+    "218": {
+        "street": "Sinner St",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Little Bighorn Ave"
+        ]
+    },
+    "519": {
+        "street": "Abe Milton Pkwy",
+        "cross": [
+            "Eastbourne Way",
+            "Carcer Way"
+        ]
+    },
+    "621": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Bay City Ave",
+            "Red Desert Ave"
+        ]
+    },
+    "3017": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "819": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "921": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "188": {
+        "street": "Fudge Ln",
+        "cross": [
+            "El Rancho Blvd",
+            "Sustancia Rd"
+        ]
+    },
+    "67": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "388": {
+        "street": "Alta St",
+        "cross": [
+            "South Arsenal St",
+            "La Puerta Fwy"
+        ]
+    },
+    "226": {
+        "street": "Olympic Fwy",
+        "cross": []
+    },
+    "48": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "1034": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "325": {
+        "street": "Imagination Ct",
+        "cross": [
+            "Invention Ct",
+            "Bay City Ave"
+        ]
+    },
+    "64": {
+        "street": "Orchardville Ave",
+        "cross": []
+    },
+    "887": {
+        "street": "Hillcrest Ridge Access Rd",
+        "cross": [
+            "Hillcrest Ave"
+        ]
+    },
+    "1036": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "673": {
+        "street": "Greenwich Way",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "896": {
+        "street": "Normandy Dr",
+        "cross": [
+            "Hillcrest Ave",
+            "Picture Perfect Drive"
+        ]
+    },
+    "1012": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "2012": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3012": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "873": {
+        "street": "Hillcrest Ridge Access Rd",
+        "cross": [
+            "South Mo Milton Dr"
+        ]
+    },
+    "203": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Integrity Way",
+            "Strawberry Ave"
+        ]
+    },
+    "396": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Integrity Way",
+            "Swiss St"
+        ]
+    },
+    "73": {
+        "street": "Jamestown St",
+        "cross": [
+            "Carson Ave",
+            "Dutch London St"
+        ]
+    },
+    "870": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Cockingend Dr",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "670": {
+        "street": "Dorset Dr",
+        "cross": [
+            "South Boulevard Del Perro",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "70": {
+        "street": "Autopia Pkwy",
+        "cross": [
+            "Davis Ave"
+        ]
+    },
+    "570": {
+        "street": "Las Lagunas Blvd",
+        "cross": [
+            "Laguna Pl",
+            "Hawick Ave"
+        ]
+    },
+    "370": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Ginger St",
+            "Palomino Ave"
+        ]
+    },
+    "595": {
+        "street": "Hawick Ave",
+        "cross": [
+            "Elgin Ave",
+            "Meteor St"
+        ]
+    },
+    "1049": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "560": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Las Lagunas Blvd",
+            "North Archer Ave"
+        ]
+    },
+    "688": {
+        "street": "Portola Dr",
+        "cross": [
+            "Spanish Ave",
+            "Caesars Place"
+        ]
+    },
+    "588": {
+        "street": "North Conker Ave",
+        "cross": [
+            "Alta St",
+            "Baytree Canyon Rd"
+        ]
+    },
+    "888": {
+        "street": "Hillcrest Ave",
+        "cross": [
+            "Hillcrest Ridge Access Rd",
+            "Picture Perfect Drive"
+        ]
+    },
+    "571": {
+        "street": "Las Lagunas Blvd",
+        "cross": [
+            "Capital Blvd",
+            "Occupation Ave"
+        ]
+    },
+    "1002": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "2002": {
+        "street": "Cassidy Trail",
+        "cross": []
+    },
+    "378": {
+        "street": "Vespucci Blvd",
+        "cross": []
+    },
+    "3020": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "2020": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "1020": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "840": {
+        "street": "Richman St",
+        "cross": [
+            "Ace Jones Dr",
+            "North Rockford Dr"
+        ]
+    },
+    "371": {
+        "street": "Ginger St",
+        "cross": [
+            "Palomino Ave",
+            "Vespucci Blvd"
+        ]
+    },
+    "26": {
+        "street": "Carson Ave",
+        "cross": []
+    },
+    "215": {
+        "street": "Little Bighorn Ave",
+        "cross": [
+            "Integrity Way",
+            "Sinners Passage"
+        ]
+    },
+    "3030": {
+        "street": "Procopio Promenade",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "932": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "1030": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "1050": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3002": {
+        "street": "Great Ocean Hwy",
+        "cross": []
+    },
+    "532": {
+        "street": "Cox Way",
+        "cross": [
+            "Didion Dr",
+            "Milton Rd"
+        ]
+    },
+    "2017": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "722": {
+        "street": "Senora Rd",
+        "cross": []
+    },
+    "935": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "2010": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "1022": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "687": {
+        "street": "Spanish Ave",
+        "cross": [
+            "Portola Dr",
+            "Steele Way"
+        ]
+    },
+    "3022": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "2022": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "187": {
+        "street": "Fudge Ln",
+        "cross": [
+            "Capital Blvd",
+            "El Rancho Blvd"
+        ]
+    },
+    "883": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "South Mo Milton Dr"
+        ]
+    },
+    "387": {
+        "street": "Mutiny Rd",
+        "cross": [
+            "South Arsenal St",
+            "La Puerta Fwy"
+        ]
+    },
+    "383": {
+        "street": "Alta St",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Olympic Fwy"
+        ]
+    },
+    "578": {
+        "street": "Alta St",
+        "cross": [
+            "Power St",
+            "Spanish Ave"
+        ]
+    },
+    "678": {
+        "street": "Caesars Place",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Spanish Ave"
+        ]
+    },
+    "2016": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "878": {
+        "street": "Hillcrest Ave",
+        "cross": [
+            "Cockingend Dr",
+            "South Mo Milton Dr"
+        ]
+    },
+    "899": {
+        "street": "Milton Rd",
+        "cross": [
+            "Normandy Dr",
+            "Kimble Hill Dr"
+        ]
+    },
+    "583": {
+        "street": "Occupation Ave",
+        "cross": [
+            "Capital Blvd",
+            "Hawick Ave"
+        ]
+    },
+    "699": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Del Perro Fwy",
+            "La Puerta Fwy"
+        ]
+    },
+    "880": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Cockingend Dr"
+        ]
+    },
+    "875": {
+        "street": "Cockingend Dr",
+        "cross": [
+            "Picture Perfect Drive",
+            "South Mo Milton Dr"
+        ]
+    },
+    "2006": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "675": {
+        "street": "West Eclipse Blvd",
+        "cross": [
+            "Steele Way",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "575": {
+        "street": "Clinton Ave",
+        "cross": [
+            "Vinewood Blvd",
+            "Power St"
+        ]
+    },
+    "680": {
+        "street": "Caesars Place",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Portola Dr"
+        ]
+    },
+    "375": {
+        "street": "Calais Ave",
+        "cross": [
+            "Innocence Blvd"
+        ]
+    },
+    "580": {
+        "street": "Alta St",
+        "cross": [
+            "Hawick Ave",
+            "Alta Pl"
+        ]
+    },
+    "175": {
+        "street": "Elysian Fields Fwy",
+        "cross": [
+            "Olympic Fwy",
+            "Capital Blvd"
+        ]
+    },
+    "380": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Olympic Fwy",
+            "Del Perro Fwy"
+        ]
+    },
+    "599": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Los Santos Freeway"
+        ]
+    },
+    "52": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "399": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Low Power St",
+            "Elgin Ave"
+        ]
+    },
+    "376": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Ginger St",
+            "La Puerta Fwy"
+        ]
+    },
+    "881": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Cockingend Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "176": {
+        "street": "Capital Blvd",
+        "cross": [
+            "Elysian Fields Fwy"
+        ]
+    },
+    "2026": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "677": {
+        "street": "Steele Way",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Spanish Ave"
+        ]
+    },
+    "577": {
+        "street": "Alta St",
+        "cross": [
+            "Laguna Pl",
+            "Spanish Ave"
+        ]
+    },
+    "877": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "South Mo Milton Dr",
+            "Hillcrest Ave"
+        ]
+    },
+    "681": {
+        "street": "South Boulevard Del Perro",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Portola Dr"
+        ]
+    },
+    "172": {
+        "street": "Popular St",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "177": {
+        "street": "El Rancho Blvd",
+        "cross": [
+            "Olympic Fwy",
+            "Elysian Fields Fwy"
+        ]
+    },
+    "381": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Peaceful St",
+            "La Puerta Fwy"
+        ]
+    },
+    "377": {
+        "street": "Calais Ave",
+        "cross": [
+            "Palomino Ave",
+            "Vespucci Blvd"
+        ]
+    },
+    "938": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "591": {
+        "street": "Power St",
+        "cross": [
+            "Meteor St",
+            "Spanish Ave"
+        ]
+    },
+    "829": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr",
+            "Banham Canyon Dr"
+        ]
+    },
+    "872": {
+        "street": "Hillcrest Ave",
+        "cross": [
+            "South Mo Milton Dr",
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "361": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Palomino Ave"
+        ]
+    },
+    "354": {
+        "street": "Palomino Ave",
+        "cross": [
+            "South Rockford Dr",
+            "Invention Ct"
+        ]
+    },
+    "394": {
+        "street": "Adam's Apple Blvd",
+        "cross": [
+            "Olympic Fwy"
+        ]
+    },
+    "154": {
+        "street": "Little Bighorn Ave",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "390": {
+        "street": "Peaceful St",
+        "cross": [
+            "San Andreas Ave",
+            "Alta St"
+        ]
+    },
+    "3004": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "353": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Invention Ct"
+        ]
+    },
+    "1045": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "189": {
+        "street": "Sustancia Rd",
+        "cross": [
+            "El Rancho Blvd",
+            "Fudge Ln"
+        ]
+    },
+    "350": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "South Rockford Dr",
+            "Decker St"
+        ]
+    },
+    "651": {
+        "street": "West Eclipse Blvd",
+        "cross": [
+            "Sam Austin Dr"
+        ]
+    },
+    "3024": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "589": {
+        "street": "North Conker Ave",
+        "cross": [
+            "Alta St",
+            "Clinton Ave"
+        ]
+    },
+    "696": {
+        "street": "Portola Dr",
+        "cross": [
+            "Rockford Dr",
+            "Eastbourne Way"
+        ]
+    },
+    "389": {
+        "street": "Alta St",
+        "cross": [
+            "Del Perro Fwy",
+            "San Andreas Ave"
+        ]
+    },
+    "1053": {
+        "street": "Los Santos Freeway",
+        "cross": []
+    },
+    "801": {
+        "street": "Ineseno Road",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "551": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd"
+        ]
+    },
+    "1043": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "882": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "Picture Perfect Drive"
+        ]
+    },
+    "609": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Magellan Ave",
+            "Equality Way"
+        ]
+    },
+    "955": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "863": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "South Mo Milton Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "663": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "South Boulevard Del Perro",
+            "Movie Star Way"
+        ]
+    },
+    "1010": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "960": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "3010": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "954": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "854": {
+        "street": "Hangman Ave",
+        "cross": [
+            "Mad Wayne Thunder Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "860": {
+        "street": "Mad Wayne Thunder Dr",
+        "cross": [
+            "South Mo Milton Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "654": {
+        "street": "Morningwood Blvd",
+        "cross": []
+    },
+    "554": {
+        "street": "North Archer Ave",
+        "cross": [
+            "San Vitus Blvd",
+            "Spanish Ave"
+        ]
+    },
+    "344": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "444": {
+        "street": "Nikola Pl",
+        "cross": [
+            "East Mirror Dr",
+            "Utopia Gardens"
+        ]
+    },
+    "144": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Jamestown St",
+            "Carson Ave"
+        ]
+    },
+    "50": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "695": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "South Boulevard Del Perro",
+            "Portola Dr"
+        ]
+    },
+    "440": {
+        "street": "East Mirror Dr",
+        "cross": [
+            "Mirror Park Blvd"
+        ]
+    },
+    "895": {
+        "street": "Normandy Dr",
+        "cross": [
+            "Hillcrest Ave"
+        ]
+    },
+    "661": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "West Eclipse Blvd"
+        ]
+    },
+    "942": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "861": {
+        "street": "Hillcrest Ridge Access Rd",
+        "cross": [
+            "North Sheldon Ave",
+            "South Mo Milton Dr"
+        ]
+    },
+    "961": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "395": {
+        "street": "Low Power St",
+        "cross": [
+            "Integrity Way",
+            "San Andreas Ave"
+        ]
+    },
+    "886": {
+        "street": "Hillcrest Ridge Access Rd",
+        "cross": [
+            "South Mo Milton Dr"
+        ]
+    },
+    "642": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "West Eclipse Blvd",
+            "Sam Austin Dr"
+        ]
+    },
+    "686": {
+        "street": "Steele Way",
+        "cross": [
+            "West Eclipse Blvd",
+            "Dunstable Dr"
+        ]
+    },
+    "586": {
+        "street": "Whispymound Dr",
+        "cross": [
+            "Baytree Canyon Rd",
+            "Wild Oats Dr"
+        ]
+    },
+    "933": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "152": {
+        "street": "Jamestown St",
+        "cross": [
+            "Macdonald St",
+            "Innocence Blvd"
+        ]
+    },
+    "3026": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "352": {
+        "street": "Imagination Ct",
+        "cross": [
+            "South Rockford Dr",
+            "Vespucci Blvd"
+        ]
+    },
+    "897": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "633": {
+        "street": "Cougar Ave",
+        "cross": [
+            "West Eclipse Blvd",
+            "Prosperity St"
+        ]
+    },
+    "697": {
+        "street": "Rockford Dr",
+        "cross": [
+            "Portola Dr"
+        ]
+    },
+    "833": {
+        "street": "Ace Jones Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "940": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "397": {
+        "street": "Swiss St",
+        "cross": [
+            "Low Power St",
+            "Elgin Ave"
+        ]
+    },
+    "944": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "640": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Americano Way"
+        ]
+    },
+    "442": {
+        "street": "Nikola Pl",
+        "cross": [
+            "East Mirror Dr"
+        ]
+    },
+    "844": {
+        "street": "Marlowe Dr",
+        "cross": []
+    },
+    "544": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd"
+        ]
+    },
+    "644": {
+        "street": "South Rockford Dr",
+        "cross": [
+            "Perth St",
+            "North Rockford Dr"
+        ]
+    },
+    "303": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Conquistador St",
+            "Cortes St"
+        ]
+    },
+    "134": {
+        "street": "Strawberry Ave",
+        "cross": [
+            "Innocence Blvd",
+            "Forum Dr"
+        ]
+    },
+    "434": {
+        "street": "East Mirror Dr",
+        "cross": [
+            "Mirror Park Blvd"
+        ]
+    },
+    "334": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Prosperity St"
+        ]
+    },
+    "430": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Mirror Pl",
+            "Nikola Ave"
+        ]
+    },
+    "885": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "South Mo Milton Dr",
+            "Hillcrest Ave"
+        ]
+    },
+    "585": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Elgin Ave",
+            "Power St"
+        ]
+    },
+    "685": {
+        "street": "Greenwich Way",
+        "cross": [
+            "Dunstable Dr",
+            "West Eclipse Blvd"
+        ]
+    },
+    "385": {
+        "street": "Alta St",
+        "cross": [
+            "Innocence Blvd",
+            "La Puerta Fwy"
+        ]
+    },
+    "679": {
+        "street": "Caesars Place",
+        "cross": [
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "185": {
+        "street": "Fudge Ln",
+        "cross": [
+            "Innocence Blvd",
+            "Capital Blvd"
+        ]
+    },
+    "579": {
+        "street": "Alta St",
+        "cross": [
+            "Laguna Pl",
+            "Las Lagunas Blvd"
+        ]
+    },
+    "1018": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "876": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Cockingend Dr",
+            "South Mo Milton Dr"
+        ]
+    },
+    "576": {
+        "street": "Vinewood Blvd",
+        "cross": [
+            "Power St",
+            "Alta St"
+        ]
+    },
+    "676": {
+        "street": "Steele Way",
+        "cross": [
+            "Spanish Ave",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "142": {
+        "street": "Davis Ave",
+        "cross": [
+            "Innocence Blvd",
+            "Macdonald St"
+        ]
+    },
+    "386": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Mutiny Rd",
+            "South Arsenal St"
+        ]
+    },
+    "342": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "186": {
+        "street": "Fudge Ln",
+        "cross": [
+            "El Rancho Blvd",
+            "Capital Blvd"
+        ]
+    },
+    "623": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Sandcastle Way",
+            "Red Desert Ave"
+        ]
+    },
+    "523": {
+        "street": "Didion Dr",
+        "cross": [
+            "Cox Way",
+            "Milton Rd"
+        ]
+    },
+    "823": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "723": {
+        "street": "Los Santos Freeway",
+        "cross": []
+    },
+    "223": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "934": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "423": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "West Mirror Drive"
+        ]
+    },
+    "323": {
+        "street": "Bay City Ave",
+        "cross": [
+            "San Andreas Ave"
+        ]
+    },
+    "634": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Prosperity St",
+            "Cougar Ave"
+        ]
+    },
+    "534": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd"
+        ]
+    },
+    "834": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "1026": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "124": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Covenant Ave",
+            "Grove St"
+        ]
+    },
+    "224": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "120": {
+        "street": "Grove St",
+        "cross": [
+            "Davis Ave"
+        ]
+    },
+    "424": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "West Mirror Drive",
+            "Mirror Park Blvd"
+        ]
+    },
+    "320": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Melanoma St",
+            "Rub St"
+        ]
+    },
+    "220": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Popular St",
+            "Supply St"
+        ]
+    },
+    "520": {
+        "street": "Abe Milton Pkwy",
+        "cross": [
+            "Carcer Way",
+            "San Vitus Blvd"
+        ]
+    },
+    "420": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "West Mirror Drive"
+        ]
+    },
+    "366": {
+        "street": "Palomino Ave",
+        "cross": [
+            "Vespucci Blvd",
+            "Lindsay Circus"
+        ]
+    },
+    "827": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "922": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Mt Haan Rd",
+            "Baytree Canyon Rd"
+        ]
+    },
+    "111": {
+        "street": "Grove St",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "211": {
+        "street": "Fantastic Pl",
+        "cross": [
+            "Vespucci Blvd",
+            "Strawberry Ave"
+        ]
+    },
+    "822": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "522": {
+        "street": "Milton Rd",
+        "cross": [
+            "Picture Perfect Drive"
+        ]
+    },
+    "622": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Sandcastle Way",
+            "Equality Way"
+        ]
+    },
+    "432": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "West Mirror Drive"
+        ]
+    },
+    "332": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Del Perro Fwy",
+            "Bay City Ave"
+        ]
+    },
+    "953": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "132": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Jamestown St",
+            "Dutch London St"
+        ]
+    },
+    "1032": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "853": {
+        "street": "North Sheldon Ave",
+        "cross": [
+            "Hangman Ave",
+            "Mad Wayne Thunder Dr"
+        ]
+    },
+    "553": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "San Vitus Blvd"
+        ]
+    },
+    "653": {
+        "street": "Morningwood Blvd",
+        "cross": [
+            "Cougar Ave"
+        ]
+    },
+    "29": {
+        "street": "Carson Ave",
+        "cross": []
+    },
+    "39": {
+        "street": "Dutch London St",
+        "cross": [
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "153": {
+        "street": "Little Bighorn Ave",
+        "cross": [
+            "Jamestown St",
+            "Macdonald St"
+        ]
+    },
+    "19": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "69": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "79": {
+        "street": "Popular St",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "49": {
+        "street": "Autopia Pkwy",
+        "cross": []
+    },
+    "824": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "398": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Power St",
+            "Elgin Ave"
+        ]
+    },
+    "601": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "901": {
+        "street": "Barbareno Rd",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "110": {
+        "street": "Grove St",
+        "cross": [
+            "Autopia Pkwy",
+            "Davis Ave"
+        ]
+    },
+    "514": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Spanish Ave",
+            "Milton Rd"
+        ]
+    },
+    "414": {
+        "street": "West Mirror Drive",
+        "cross": [
+            "Bridge St",
+            "Glory Way"
+        ]
+    },
+    "314": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Conquistador St",
+            "Imagination Ct"
+        ]
+    },
+    "214": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Sinner St"
+        ]
+    },
+    "171": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Popular St",
+            "Labor Pl"
+        ]
+    },
+    "952": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "101": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Power St",
+            "Innocence Blvd"
+        ]
+    },
+    "1006": {
+        "street": "Route 68",
+        "cross": []
+    },
+    "301": {
+        "street": "Sandcastle Way",
+        "cross": [
+            "Vespucci Blvd",
+            "Magellan Ave"
+        ]
+    },
+    "201": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "Strawberry Ave"
+        ]
+    },
+    "501": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "West Eclipse Blvd"
+        ]
+    },
+    "401": {
+        "street": "Mirror Park Blvd",
+        "cross": []
+    },
+    "322": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Del Perro Fwy"
+        ]
+    },
+    "422": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "West Mirror Drive",
+            "San Andreas Ave"
+        ]
+    },
+    "122": {
+        "street": "Grove St",
+        "cross": [
+            "Davis Ave",
+            "Brouge Ave"
+        ]
+    },
+    "222": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "843": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Richman St"
+        ]
+    },
+    "164": {
+        "street": "Popular St",
+        "cross": [
+            "Innocence Blvd",
+            "Little Bighorn Ave"
+        ]
+    },
+    "643": {
+        "street": "Cougar Ave",
+        "cross": [
+            "South Rockford Dr",
+            "North Rockford Dr"
+        ]
+    },
+    "543": {
+        "street": "Didion Dr",
+        "cross": [
+            "Eclipse Blvd",
+            "Cox Way"
+        ]
+    },
+    "914": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Calafia Rd",
+            "Route 68"
+        ]
+    },
+    "814": {
+        "street": "Great Ocean Hwy",
+        "cross": [
+            "Ineseno Road"
+        ]
+    },
+    "714": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Didion Dr",
+            "Wild Oats Dr"
+        ]
+    },
+    "614": {
+        "street": "Bay City Incline",
+        "cross": [
+            "Del Perro Fwy",
+            "Playa Vista"
+        ]
+    },
+    "616": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Cougar Ave"
+        ]
+    },
+    "898": {
+        "street": "Milton Rd",
+        "cross": [
+            "Normandy Dr"
+        ]
+    },
+    "598": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Vinewood Blvd",
+            "Clinton Ave"
+        ]
+    },
+    "698": {
+        "street": "Dorset Dr",
+        "cross": [
+            "Rockford Dr",
+            "Carcer Way"
+        ]
+    },
+    "400": {
+        "street": "Vinewood Park Dr",
+        "cross": []
+    },
+    "104": {
+        "street": "Carson Ave",
+        "cross": [
+            "Innocence Blvd",
+            "Forum Dr"
+        ]
+    },
+    "200": {
+        "street": "Elgin Ave",
+        "cross": [
+            "Vespucci Blvd",
+            "Power St"
+        ]
+    },
+    "158": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Jamestown St",
+            "Little Bighorn Ave"
+        ]
+    },
+    "404": {
+        "street": "Mirror Park Blvd",
+        "cross": [
+            "Vinewood Park Dr"
+        ]
+    },
+    "504": {
+        "street": "Strangeways Dr",
+        "cross": [
+            "Rockford Dr",
+            "Boulevard Del Perro"
+        ]
+    },
+    "204": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Elgin Ave"
+        ]
+    },
+    "304": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Vitus St",
+            "Cortes St"
+        ]
+    },
+    "602": {
+        "street": "Del Perro Fwy",
+        "cross": [
+            "West Eclipse Blvd"
+        ]
+    },
+    "702": {
+        "street": "Milton Rd",
+        "cross": [
+            "Didion Dr",
+            "Picture Perfect Drive"
+        ]
+    },
+    "131": {
+        "street": "Carson Ave",
+        "cross": [
+            "Covenant Ave",
+            "Brouge Ave"
+        ]
+    },
+    "231": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Supply St"
+        ]
+    },
+    "1016": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "916": {
+        "street": "Baytree Canyon Rd",
+        "cross": [
+            "Calafia Rd"
+        ]
+    },
+    "816": {
+        "street": "Kortz Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "716": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Didion Dr",
+            "Whispymound Dr"
+        ]
+    },
+    "324": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Imagination Ct",
+            "Vespucci Blvd"
+        ]
+    },
+    "691": {
+        "street": "West Eclipse Blvd",
+        "cross": []
+    },
+    "112": {
+        "street": "Grove St",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "76": {
+        "street": "Carson Ave",
+        "cross": []
+    },
+    "312": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Vespucci Blvd",
+            "San Andreas Ave"
+        ]
+    },
+    "212": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Fantastic Pl"
+        ]
+    },
+    "512": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "West Eclipse Blvd"
+        ]
+    },
+    "412": {
+        "street": "Bridge St",
+        "cross": [
+            "West Mirror Drive"
+        ]
+    },
+    "804": {
+        "street": "Ineseno Road",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "904": {
+        "street": "Barbareno Rd",
+        "cross": []
+    },
+    "604": {
+        "street": "Del Perro Fwy",
+        "cross": []
+    },
+    "704": {
+        "street": "Kimble Hill Dr",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "216": {
+        "street": "San Andreas Ave",
+        "cross": [
+            "Little Bighorn Ave",
+            "Atlee St"
+        ]
+    },
+    "700": {
+        "street": "Normandy Dr",
+        "cross": [
+            "Kimble Hill Dr",
+            "Milton Rd"
+        ]
+    },
+    "17": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "500": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "South Mo Milton Dr",
+            "Dunstable Ln"
+        ]
+    },
+    "374": {
+        "street": "Calais Ave",
+        "cross": [
+            "Innocence Blvd"
+        ]
+    },
+    "646": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "South Rockford Dr",
+            "Boulevard Del Perro"
+        ]
+    },
+    "89": {
+        "street": "Davis Ave",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "99": {
+        "street": "Greenwich Pkwy",
+        "cross": [
+            "La Puerta Fwy",
+            "Autopia Pkwy"
+        ]
+    },
+    "821": {
+        "street": "North Rockford Dr",
+        "cross": [
+            "Ace Jones Dr"
+        ]
+    },
+    "721": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "1042": {
+        "street": "North Calafia Way",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "521": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "421": {
+        "street": "Del Perro Fwy",
+        "cross": []
+    },
+    "321": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Rub St",
+            "Melanoma St"
+        ]
+    },
+    "221": {
+        "street": "Popular St",
+        "cross": [
+            "Del Perro Fwy",
+            "San Andreas Ave"
+        ]
+    },
+    "121": {
+        "street": "Carson Ave",
+        "cross": [
+            "Davis Ave",
+            "Brouge Ave"
+        ]
+    },
+    "619": {
+        "street": "Bay City Ave",
+        "cross": [
+            "Marathon Ave"
+        ]
+    },
+    "1007": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "907": {
+        "street": "Barbareno Rd",
+        "cross": [
+            "Great Ocean Hwy"
+        ]
+    },
+    "1011": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "1039": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "825": {
+        "street": "North Rockford Dr",
+        "cross": []
+    },
+    "1017": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "102": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Alta St"
+        ]
+    },
+    "202": {
+        "street": "Integrity Way",
+        "cross": [
+            "Elgin Ave",
+            "Strawberry Ave"
+        ]
+    },
+    "302": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Vespucci Blvd",
+            "Conquistador St"
+        ]
+    },
+    "402": {
+        "street": "Los Santos Freeway",
+        "cross": []
+    },
+    "502": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "West Eclipse Blvd",
+            "Rockford Dr"
+        ]
+    },
+    "959": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd",
+            "Mt Haan Rd"
+        ]
+    },
+    "3019": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "936": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "1008": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "2008": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "3008": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "148": {
+        "street": "Crusade Rd",
+        "cross": [
+            "Olympic Fwy",
+            "Capital Blvd"
+        ]
+    },
+    "300": {
+        "street": "Sandcastle Way",
+        "cross": [
+            "Vespucci Blvd",
+            "Red Desert Ave"
+        ]
+    },
+    "951": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "690": {
+        "street": "South Mo Milton Dr",
+        "cross": [
+            "West Eclipse Blvd",
+            "Dunstable Dr"
+        ]
+    },
+    "80": {
+        "street": "Davis Ave",
+        "cross": [
+            "La Puerta Fwy",
+            "Autopia Pkwy"
+        ]
+    },
+    "40": {
+        "street": "Dutch London St",
+        "cross": [
+            "Davis Ave"
+        ]
+    },
+    "88": {
+        "street": "Davis Ave",
+        "cross": []
+    },
+    "78": {
+        "street": "Popular St",
+        "cross": [
+            "Carson Ave"
+        ]
+    },
+    "84": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "98": {
+        "street": "Greenwich Pkwy",
+        "cross": [
+            "La Puerta Fwy",
+            "Autopia Pkwy"
+        ]
+    },
+    "151": {
+        "street": "Innocence Blvd",
+        "cross": [
+            "Roy Lowenstein Blvd",
+            "Davis Ave"
+        ]
+    },
+    "83": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Davis Ave",
+            "Autopia Pkwy"
+        ]
+    },
+    "351": {
+        "street": "Vespucci Blvd",
+        "cross": [
+            "South Rockford Dr"
+        ]
+    },
+    "114": {
+        "street": "Roy Lowenstein Blvd",
+        "cross": [
+            "Grove St",
+            "Dutch London St"
+        ]
+    },
+    "724": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Senora Rd"
+        ]
+    },
+    "624": {
+        "street": "Cougar Ave",
+        "cross": [
+            "Bay City Ave",
+            "Liberty St"
+        ]
+    },
+    "524": {
+        "street": "Eclipse Blvd",
+        "cross": [
+            "Milton Rd"
+        ]
+    },
+    "924": {
+        "street": "Calafia Rd",
+        "cross": [
+            "Mt Haan Rd",
+            "Baytree Canyon Rd"
+        ]
+    },
+    "813": {
+        "street": "Great Ocean Hwy",
+        "cross": [
+            "Ineseno Road"
+        ]
+    },
+    "913": {
+        "street": "Galileo Rd",
+        "cross": [
+            "Baytree Canyon Rd"
+        ]
+    },
+    "613": {
+        "street": "Playa Vista",
+        "cross": []
+    },
+    "713": {
+        "street": "Lake Vinewood Est",
+        "cross": []
+    },
+    "1025": {
+        "street": "Calafia Rd",
+        "cross": []
+    },
+    "71": {
+        "street": "Autopia Pkwy",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "1004": {
+        "street": "Route 68",
+        "cross": [
+            "Fort Zancudo Approach Rd"
+        ]
+    },
+    "2004": {
+        "street": "Cassidy Trail",
+        "cross": []
+    },
+    "55": {
+        "street": "Labor Pl",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "65": {
+        "street": "Orchardville Ave",
+        "cross": []
+    },
+    "35": {
+        "street": "Dutch London St",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "45": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "15": {
+        "street": "Orchardville Ave",
+        "cross": []
+    },
+    "25": {
+        "street": "Jamestown St",
+        "cross": [
+            "Roy Lowenstein Blvd",
+            "Dutch London St"
+        ]
+    },
+    "213": {
+        "street": "Olympic Fwy",
+        "cross": [
+            "Adam's Apple Blvd",
+            "Strawberry Ave"
+        ]
+    },
+    "313": {
+        "street": "Magellan Ave",
+        "cross": [
+            "Vespucci Blvd",
+            "Bay City Ave"
+        ]
+    },
+    "92": {
+        "street": "Greenwich Pkwy",
+        "cross": []
+    },
+    "941": {
+        "street": "Mt Haan Rd",
+        "cross": []
+    },
+    "3021": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "81": {
+        "street": "Davis Ave",
+        "cross": [
+            "Autopia Pkwy",
+            "La Puerta Fwy"
+        ]
+    },
+    "641": {
+        "street": "Sam Austin Dr",
+        "cross": [
+            "North Rockford Dr"
+        ]
+    },
+    "87": {
+        "street": "Davis Ave",
+        "cross": [
+            "Dutch London St"
+        ]
+    },
+    "97": {
+        "street": "La Puerta Fwy",
+        "cross": [
+            "Autopia Pkwy"
+        ]
+    },
+    "892": {
+        "street": "Picture Perfect Drive",
+        "cross": [
+            "Hillcrest Ridge Access Rd"
+        ]
+    },
+    "712": {
+        "street": "Lake Vinewood Est",
+        "cross": [
+            "Marlowe Dr"
+        ]
+    },
+    "612": {
+        "street": "Red Desert Ave",
+        "cross": []
+    },
+    "912": {
+        "street": "Route 68",
+        "cross": []
+    },
+    "812": {
+        "street": "Great Ocean Hwy",
+        "cross": [
+            "Ineseno Road"
+        ]
+    },
+    "12": {
+        "street": "Popular St",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "61": {
+        "street": "Popular St",
+        "cross": [
+            "Orchardville Ave"
+        ]
+    },
+    "574": {
+        "street": "Clinton Ave",
+        "cross": [
+            "Power St"
+        ]
+    },
+    "184": {
+        "street": "El Rancho Blvd",
+        "cross": [
+            "Fudge Ln",
+            "Capital Blvd"
+        ]
+    },
+    "903": {
+        "street": "Barbareno Rd",
+        "cross": []
+    },
+    "803": {
+        "street": "Ineseno Road",
+        "cross": []
+    },
+    "703": {
+        "street": "East Galileo Ave",
+        "cross": [
+            "Milton Rd",
+            "Marlowe Dr"
+        ]
+    },
+    "603": {
+        "street": "Playa Vista",
+        "cross": [
+            "West Eclipse Blvd",
+            "Bay City Incline"
+        ]
+    },
+    "3018": {
+        "street": "Procopio Promenade",
+        "cross": []
+    },
+    "2018": {
+        "street": "North Calafia Way",
+        "cross": []
+    },
+    "655": {
+        "street": "Boulevard Del Perro",
+        "cross": [
+            "Morningwood Blvd"
+        ]
+    },
+    "1040": {
+        "street": "Los Santos Freeway",
+        "cross": [
+            "Mt Haan Rd"
+        ]
+    },
+    "103": {
+        "street": "Carson Ave",
+        "cross": [
+            "Innocence Blvd"
+        ]
+    },
+    "38": {
+        "street": "Dutch London St",
+        "cross": [
+            "Roy Lowenstein Blvd"
+        ]
+    },
+    "68": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    },
+    "649": {
+        "street": "Americano Way",
+        "cross": [
+            "Sam Austin Dr"
+        ]
+    },
+    "503": {
+        "street": "Strangeways Dr",
+        "cross": [
+            "Rockford Dr",
+            "South Mo Milton Dr"
+        ]
+    },
+    "403": {
+        "street": "Palomino Fwy",
+        "cross": [
+            "Sustancia Rd"
+        ]
+    },
+    "28": {
+        "street": "Carson Ave",
+        "cross": [
+            "Popular St"
+        ]
+    },
+    "18": {
+        "street": "Orchardville Ave",
+        "cross": [
+            "Labor Pl"
+        ]
+    }
+}
