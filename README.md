@@ -72,7 +72,7 @@ ssoToken: "xxxxxxx-xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxx"
 
 # Sonoran Server and Room ID
 serverId: "xxxxx"
-roomId: "1" # Usually "1"
+roomId: "0" # Usually "0"
 
 Speakers:
   - label: "Station 2"
